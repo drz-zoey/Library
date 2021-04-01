@@ -12,13 +12,21 @@ visual studio 2010~2019
 
 ###########目录结构描述
 ├── Readme.md                   // help
+
 ├── KZLib.vcxproj               // 主项目文件
+
 ├── KZLib.vcxproj.filters       // 项目筛选器文件
+
 ├── KZLib.h                     // 主要头文件
+
 ├── KZLib.cpp                   // 主要应用程序源文件
+
 ├── KZLib.rc                    // 资源列表
+
 ├── res
+
 │   ├── KZLib.ico               // 图标文件
+
 │   ├── KZLib.rc2               // 图标文件
 ├── KZLibDlg.h                  // 对话框头文件
 ├── KZLibDlg.cpp                // 对话框源文件
